@@ -1,0 +1,5 @@
+PyGithub
+GitPython
+requests
+slackclient
+slackeventsapi
